@@ -34,9 +34,7 @@ The dashboard uses the **HRDataset_v14**, containing employee records with attri
 
 | Overview Page | Demographics Page |
 |---------------|-------------------|
-| ![image](https://github.com/user-attachments/assets/1d767c6f-5ffb-4adc-86ce-ff8e07f7287e)
- | ![image](https://github.com/user-attachments/assets/64add0a9-252b-4529-a14d-a99cf68501d8)
- |
+| ![image](https://github.com/user-attachments/assets/1d767c6f-5ffb-4adc-86ce-ff8e07f7287e)| ![image](https://github.com/user-attachments/assets/64add0a9-252b-4529-a14d-a99cf68501d8)|
 
 ---
 
